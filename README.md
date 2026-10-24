@@ -1,0 +1,1 @@
+# amfinder.js
